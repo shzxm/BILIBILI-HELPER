@@ -17,7 +17,7 @@ BILIBILI-HELPER
 
 这是一个利用 GitHub Action 定时任务实现哔哩哔哩（Bilibili）每日自动投币，点赞，分享视频，直播签到，银瓜子兑换硬币，漫画每日签到，简单配置即可每日轻松获取 65 经验值，快来和我一起成为 Lv6 吧~~~~
 
-**如果觉得好用，顺手点个 Star 吧 ❤**
+**如果觉得好用，顺手点个 Star 1吧 ❤**
 
 **仓库地址：[JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)**
 
